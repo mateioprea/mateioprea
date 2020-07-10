@@ -1,16 +1,36 @@
-### Hi there 👋
+# Matei Oprea
+---
 
-<!--
-**mateioprea/mateioprea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm Matei Oprea – a software developer currently working at @okapidev. I usually write the code you're afraid to 😁.
 
-Here are some ideas to get you started:
+Been contributing to @microsoft **Project Oxford Node** and @torvalds **Linux Kernel** in the past (check my Pinned repos). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I code in: 
+
+- Javascript for React/Node apps
+- Swift for iOS/MacOS apps
+- Kotlin for Android Apps
+
+## My passions: 
+---
+
+If I'm not on my Mac to write code, I'm usually in the studio making music. 
+I know how to play a piano and how to make a Pop hit. 
+
+Fun facts: 
+🚀 Over 1M plays on my personal [Soundcloud](https://soundcloud.com/euopreamateiro)
+🚀 Over 15M plays on YouTube/Spotify/Apple Music for the music I produced
+
+## Get in touch 
+--- 
+
+```bash 
+curl opreamatei.ro
+```
+
+Easy way: 
+
+- Twitter: [@mateioprea](https://twitter.com/mateioprea)
+- Instagram: [@matei.oprea](https://instagram.com/matei.oprea)
+
+
