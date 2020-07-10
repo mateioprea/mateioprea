@@ -15,10 +15,13 @@ I code in:
 
 
 If I'm not on my Mac to write code, I'm usually in the studio making music. 
+
 I know how to play a piano and how to make a Pop hit. 
 
 Fun facts: 
+
 🚀 Over 1M plays on my personal [Soundcloud](https://soundcloud.com/euopreamateiro)
+
 🚀 Over 15M plays on YouTube/Spotify/Apple Music for the music I produced
 
 ## Get in touch 
