@@ -1,5 +1,5 @@
 # Matei Oprea
----
+
 
 Hi 👋, I'm Matei Oprea – a software developer currently working at @okapidev. I usually write the code you're afraid to 😁.
 
@@ -12,7 +12,7 @@ I code in:
 - Kotlin for Android Apps
 
 ## My passions: 
----
+
 
 If I'm not on my Mac to write code, I'm usually in the studio making music. 
 I know how to play a piano and how to make a Pop hit. 
@@ -22,7 +22,7 @@ Fun facts:
 🚀 Over 15M plays on YouTube/Spotify/Apple Music for the music I produced
 
 ## Get in touch 
---- 
+
 
 ```bash 
 curl opreamatei.ro
