@@ -30,10 +30,3 @@ Fun facts:
 ```bash 
 curl opreamatei.ro
 ```
-
-Easy way: 
-
-- Twitter: [@mateioprea](https://twitter.com/mateioprea)
-- Instagram: [@matei.oprea](https://instagram.com/matei.oprea)
-
-
