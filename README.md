@@ -30,3 +30,5 @@ Fun facts:
 ```bash 
 curl opreamatei.ro
 ```
+
+- [LinkedIn](https://www.linkedin.com/in/mateioprea/)
