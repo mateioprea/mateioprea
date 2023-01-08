@@ -28,7 +28,8 @@ Fun facts:
 
 
 ```bash 
-curl opreamatei.ro
+matei [at] mateioprea.ro
 ```
 
 - [LinkedIn](https://www.linkedin.com/in/mateioprea/)
+- [Twitter](https://twitter.com/mateioprea)
