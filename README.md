@@ -26,10 +26,5 @@ Fun facts:
 
 ## Get in touch 
 
-
-```bash 
-matei [at] mateioprea.ro
-```
-
 - [LinkedIn](https://www.linkedin.com/in/mateioprea/)
 - [Twitter](https://twitter.com/mateioprea)
